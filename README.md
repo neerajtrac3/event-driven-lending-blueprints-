@@ -1,4 +1,4 @@
-# event-driven-lending-blueprints-
+# Event-Driven-Lending-Blueprints-
 Event‑driven architecture blueprints for lending lifecycle automation and real‑time processing.
-# Repository Title
+
 Documentation and architecture assets will be added shortly.
