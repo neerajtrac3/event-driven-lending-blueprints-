@@ -1,4 +1,3 @@
-# Event-Driven-Lending-Blueprints-
 event-driven-lending-blueprints/
 │
 ├── README.md
