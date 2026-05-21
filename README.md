@@ -1,17 +1,20 @@
 # Event-Driven-Lending-Blueprints-
-Event‑driven architecture blueprints for lending lifecycle automation and real‑time processing.
-
 event-driven-lending-blueprints/
 │
 ├── README.md
+│
 ├── architecture/
 │   ├── reference-architecture.md
 │   ├── topology-diagram.png
-│   └── choreography-vs-orchestration.md
+│   ├── event-choreography.md
+│   └── lending-lifecycle.md
 │
 ├── event-schemas/
 │   ├── application-created.avsc
+│   ├── document-submitted.avsc
 │   ├── underwriting-completed.avsc
+│   ├── offer-generated.avsc
+│   ├── loan-booked.avsc
 │   └── schema-governance-policy.md
 │
 ├── blueprints/
